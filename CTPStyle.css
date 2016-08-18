@@ -90,10 +90,11 @@ hr{
 }
 
 
-img{
+.Me{
   display: block;
   margin: 0 auto;
 }
+
 
 
 @media all and (min-width: 768px) {
