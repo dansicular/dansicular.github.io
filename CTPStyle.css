@@ -3,6 +3,23 @@
 }
 
 
+#Blog ul li{
+  color: black;
+}
+
+
+#Blog ul li a{
+  color: blue;
+}
+
+
+#Blog ul li a:hover{
+  color: black;
+  text-decoration: underline;
+
+}
+
+
 .BigHorizontalPic{
   height: 450px;
   width: 600px;
