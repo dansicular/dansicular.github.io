@@ -27,6 +27,10 @@ body{
   text-align:center;
 }
 
+.CheapEats{
+  font-size: 25px;
+}
+
 
 .flex-container {
     display: -webkit-flex;
