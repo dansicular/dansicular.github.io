@@ -1,3 +1,9 @@
+a{
+  color: #73c0ee;
+  text-decoration: underline;
+}
+
+
 .article {
     text-align: left;
 }
@@ -9,7 +15,7 @@
 
 
 #Blog ul li a{
-  color: blue;
+  color: #003366;
 }
 
 
