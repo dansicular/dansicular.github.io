@@ -37,6 +37,7 @@ body{
 	width: 100%;
 	max-width: 1000px;
 	margin: 0 auto;
+  background-color: #8DCAF4;
 }
 
 
@@ -149,8 +150,10 @@ hr{
   font-size: 11px !important;
   letter-spacing: 3px;
   opacity: 1.0;
-  border: 0;
+  border: 1;
+  border-color: black;
   border-radius: 0px;
+  background-color: #A9A9A9;
 }
 
 
