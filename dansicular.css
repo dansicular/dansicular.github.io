@@ -147,7 +147,9 @@ hr{
 }
 
 
-.nav {background:#D9DCD6;}
+.nav {
+    background:#D9DCD6;
+  }
 
 
 .nav ul {
