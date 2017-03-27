@@ -122,6 +122,13 @@ hr{
 }
 
 
+#Map{
+    background-color: #D9DCD6;
+    height: 400px;
+    width: 100%; 
+}
+
+
 #Me{
   display: block;
   margin: 0 auto;
