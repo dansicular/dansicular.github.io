@@ -79,7 +79,7 @@ h2{
 
 
 h2 a{
-  color: white;
+  color: #D9DCD6;
   text-decoration: underline;
 }
 
@@ -122,10 +122,12 @@ hr{
 }
 
 
-#Map{
+.map{
     background-color: #D9DCD6;
-    height: 400px;
-    width: 100%; 
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
