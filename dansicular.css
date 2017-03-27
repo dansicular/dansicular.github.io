@@ -163,7 +163,7 @@ hr{
   border: 1;
   border-color: black;
   border-radius: 0px;
-  background-color: #075B9B;
+  background-color: #D9DCD6;
   text-decoration: none;
 }
 
@@ -176,7 +176,7 @@ hr{
 
 .navbar li a, .navbar .navbar-brand
 {
-  color: #D9DCD6 !important;
+  color: #3E6680 !important;
 }
 
 
